@@ -101,7 +101,15 @@ smart-sign-language-gloves/
 
 
 ---
+## Developers
 
+This project was developed as part of a DRP course by:
+
+- Himal Tyagi
+- Kattunga Jahnavi Sai Parvathi
+- Khushi Kumari
+- Arya Prasad M P
+- Saksham Singh
 ## 👨‍💻 Author
 
 **Saksham Singh**
