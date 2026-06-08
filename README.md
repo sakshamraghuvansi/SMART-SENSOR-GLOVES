@@ -106,7 +106,7 @@ smart-sign-language-gloves/
 This project was developed as part of a DRP course by:
 
 - Himal Tyagi
-- Kattunga Jahnavi Sai Parvathi
+- Jahnavi Sai Parvathi
 - Khushi Kumari
 - Arya Prasad M P
 - Saksham Singh
